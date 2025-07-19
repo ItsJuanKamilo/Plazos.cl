@@ -1,8 +1,3 @@
+Este proyecto fue desarrollado para un cliente abogado, con el objetivo de gestionar el resumen de plazos para la presentación de escritos ante el SII o TGR. La solución fue implementada utilizando React, JavaScript y CSS. Asimismo, se consumieron APIs y la página fue desplegada en la nube de AWS, con un dominio propio registrado en NIC.cl.
+
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
